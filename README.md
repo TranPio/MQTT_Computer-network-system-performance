@@ -2,7 +2,7 @@
 
 # Scenario
 
-![Scenario Image](https://github.com/user-attachments/assets/1f995b81-a938-4042-b797-b2ee4af770e8)
+![Scenario Image](https://github.com/user-attachments/assets/c30cb8c4-ff82-446e-927d-492917977159)
 
 
 ## Scenario Description
